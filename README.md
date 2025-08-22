@@ -1,4 +1,4 @@
-👋 Hi, I’m @Adarsh12643
+👋 Hi, I’m Adarsh Pratap Singh
 🌱 Passionate about learning, building, and collaborating.  
 💻 I love writing clean and efficient code to solve real-world problems.  
 🚀 Exploring the worlds of [Computer Science/Interest – e.g., Web Dev, AI, Open Source].  
