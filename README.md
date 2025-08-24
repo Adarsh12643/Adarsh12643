@@ -8,6 +8,6 @@
 
 ## 📫 Let’s Connect!
 
-- 💼 [LinkedIn](www.linkedin.com/in/adarsh-pratap-singh-925695268)
+- 💼 *LinkedIn* - www.linkedin.com/in/adarsh-pratap-singh-925695268
 
 ✨ *"Code is like humor. When you have to explain it, it’s bad." – Cory House*
