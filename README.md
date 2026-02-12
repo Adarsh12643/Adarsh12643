@@ -34,12 +34,6 @@ I am a passionate developer and researcher (B.Tech '27) focused on bridging the 
 
 ---
 
-### 📊 GitHub Stats
-![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adarsh12643&show_icons=true&theme=radical&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh12643&layout=compact&theme=radical)
-
----
-
 ### 📬 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-pratap-singh-925695268)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adarsh12643)
