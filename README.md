@@ -1,4 +1,4 @@
-# Hi there, I'm Adarsh Pratap Singh <img src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" width="30px">
+# Hi there, I'm Adarsh Pratap Singh <img src="https://media1.tenor.com/m/Yj4grvIBitkAAAAC/jake-is.gif" width="30px">
 
 I am a passionate developer and researcher (B.Tech '27) focused on bridging the gap between **Machine Learning** and **Web Scalability**. I enjoy building intelligent systems and contributing to the tech community.
 
